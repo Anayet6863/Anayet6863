@@ -20,7 +20,5 @@ Skills: **C/C++/HTML/CSS/JAVASCRIPT/PHYTHON/QT**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anayet6863&show_icons=true)  
 
-https://camo.githubusercontent.com/0cb0b103d969c5cfc6404ec994e34d15bf71c41aff01b7aaf9fc0de78ef6c5e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d726f7365
-
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Anayet6863/contributions?format=svg&private=false)  
 
