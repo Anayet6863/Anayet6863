@@ -1,5 +1,6 @@
 ![](https://img.freepik.com/free-vector/programming-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-706.jpg?w=1380&t=st=1726254993~exp=1726255593~hmac=c28abc84604e15d120afb73e8e4859ad14c6ba6e1df3ae38b9aaa0ae7803963d)
-### Hi there 👋, I am Md Anayet Ullah
+### Md Anayet Ullah
+### Frontend Webdveloper
 
 
 *I am Md Anayet Ullah, currently pursuing my undergraduate degree in Computer Science and Engineering at IIUC. I am passionate about web development, new technologies, and have recently embarked on my journey as a competitive programmer (CP). As a beginner, I am dedicated to improving my skills and gaining more experience in both areas.*
